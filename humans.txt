@@ -1,0 +1,24 @@
+/* TutorAPP IT - Plataforma de Servicios de Orientación y Tutoría Académica. */
+/* Centro de Bachillerato José Vasconcelos SC. */
+
+/* TEAM */
+Fundador: Alejandro González Reyes
+Site: http://director.io/prepajv/
+Contacto: alejandro.gonzalez.reyes[at]outlook.com
+Twitter: @phpconestilo
+Location: Toluca, México
+
+/* THANKS */
+http://www.video2brain.com
+http://www.desarrolloweb.com
+http://www.cristalab.com
+@jonmircha
+
+/* SITE */
+Last update: 2014/03/17
+Language: Español
+Standars: HTML5, CSS3, PHP5, MySQL5
+Components: jQuery Mobile
+Software: SublimeText2, FireWorks
+
+/* http://humanstxt.org */
