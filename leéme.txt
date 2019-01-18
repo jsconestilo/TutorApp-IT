@@ -1,0 +1,68 @@
+DESARROLLADOR: Alejandro González Reyes
+
+EMAIL: alejandro.gonzalez.reyes@outlook.com
+
+NOMBRE DEL PROYECTO: TutorApp IT
+
+VERSION: 1.0
+
+FECHA DE LIBERACIÓN: 17-MARZO-2014
+
+DESCRIPCIÓN: Proyecto correspondiente a la evaluación final de la materia de Desarrollo de Aplicaciones Móviles con cede en ICONOS, como parte del proceso para la obtención de grado de Maestría en Comunicación con Medios Virtuales.
+
+LICENCIA: Proyecto en proceso de obtención de registro ante el INDAUTOR, México. Si requiere una copia, usted esta autorizado siempre y cuando se lo haga saber al autor manteniendo intactos todos los materiales y redacciones disponibles. En caso de hacer modificaciones al código fuente y/o modelo de información usted queda sujeto a notificar dichos cambios al autor de la obra original.  
+
+
+AVISO IMPORTANTE
+*****************************************************************
+La copia de TutorApp IT anexa a este paquete de instalación sólo
+consume información del modelo de información (Base de Datos), es
+decir, usted sólo porta el paquete CLIENTE. y por tal motivo usted
+no podrá levantar reportes de incumplimiento e indisciplina para
+los alumnos. En tal caso usted necesitará el paquete ADMINISTRADOR,
+mismo que no forma parte de esta entrega para proyecto de evaluación.
+
+
+
+*****************************************************************************************
+
+CONTRASEÑAS DE ACCESO (MODO PADRE DE FAMILIA / ADMINISTRADOR DE BAJO NIVEL)
+
+*****************************************************************************************
+usuario: prepajv01	password: tutor0A
+usuario: prepajv02	password: tutor0B
+usuario: prepajv03	password: tutor0C
+usuario: prepajv04	password: tutor0D
+usuario: prepajv05	password: tutor0E
+usuario: prepajv06	password: tutor0F
+usuario: prepajv07	password: tutor0G
+usuario: prepajv08	password: tutor0H
+usuario: prepajv09	password: tutor0I
+usuario: prepajv10	password: tutor0J
+
+
+
+
+Requerimientos Básicos
+*****************************************************************
+1. Servidor de Aplicaciones Web compatible con PHP 5
+2. Servidor de Base de Datos MySQL 5
+3. Navegador Web compatible con HTML5 Y css3
+
+
+
+Instrucciones de instalación de 2 minutos.
+*****************************************************************
+
+1. Importar el archivo "DB_tutoriasJV.sql" a un gestor de Base de Datos MySQL
+2. Editar el archivo "funciones.php" con los valores establecidos en su servidor de base de datos, así como el nombre de la base de datos importada en el paso anterior. Todo ello situado con la carpeta php.
+3. Copiar y pegar la carpeta TutorApp en el directorio público correspondiente a su servidor de Aplicaciones Web.
+4. Visitar la URL correspondiente a su Intranet, apuntando directamente al directorio raíz de TutorApp.
+3. Listo...
+
+
+--------------
+Atte: Alejandro González Reyes
+Co-Fundador de: phpconestilo
+
+¿Te interesa lo que hago?, contáctame que con gusto vos gustaría formar parte de tu equipo de trabajo.
