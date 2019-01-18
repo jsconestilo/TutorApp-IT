@@ -1,0 +1,167 @@
+@font-face{
+	font-family: "VeraSerif";
+	src: url("../../fonts/veraserif/veraserif.eot");
+	src: url("../../fonts/veraserif/veraserif.eot?#iefix") format("embedded-opentype"),
+		 url("../../fonts/veraserif/veraserif.ttf") format("truetype"),
+		 url("../../fonts/veraserif/veraserif.svg#veraserifregular") format("svg"),
+		 url("../../fonts/veraserif/veraserif.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style-type: none;
+	outline: none;
+	border: 0;
+}
+body, html{
+	font-size: 16px;
+	font-family: "VeraSerif", Arial !important;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+/***** Estilos Apariencia Principal *****/
+p{
+	padding: .5em 0;
+	line-height: 1.4em;
+}
+b{
+	color: #315D29;
+}
+#banner-superior{
+	background-color: transparent;
+	background-image: url(../img/bannerSuperior.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 400px;
+	width: auto;
+	text-indent: -9999px;
+}
+#enlace-pseduca{
+	color: #ffffff;
+	background-color: #315D29;
+}
+#enlace-pseduca:hover{
+	background-color: #1D1D1D;
+}
+#logotipo-tutorApp{
+	max-width: 100%;
+}
+.banner-inferior{
+	position: absolute;
+	width: 100%;
+	bottom: 1.5em;
+	z-index: 0;
+	background-color: transparent;
+	background-image: url(../img/bannerInferior.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 400px;
+	text-indent: -9999px;
+}
+.contenedor-contenido{
+	padding: 1em;
+}
+.titulo-panel{
+	color: #F7CB3E;
+	margin-top: 2em;
+}
+.atributo{
+	margin-bottom: .3em;
+}
+.atributo-doble{
+	margin: .3em 0;
+}
+.descripcion-reporte, #palabras-bienvenida{
+	white-space: normal !important;
+	line-height: 1.5em;
+	margin-bottom: .3em;
+}
+.informacion-panel{
+	margin-bottom: 2em;
+}
+.foto-persona{
+	border: thin solid #315D29 !important;
+	padding: .2em;
+	margin: .2em;
+	background: #F4E1A7;
+	border-radius: .3em;
+}
+.logotipo-pseduca{
+	margin: 1em .6em 1em 0;
+	display: block;
+	background-color: #315D29;
+	border-radius: .5em;
+	padding: .5em;
+	border: 1px solid #fff;
+	box-shadow: 0px 0px 5px #222;
+}
+.menu-principal{
+	padding: 0 !important;
+	margin-top: -265px;
+}
+.minilogotipo-tutorApp{
+	position: absolute;
+	bottom: 1em;
+}
+.listado-especial li{
+	margin-left: 2em;
+	list-style-type: circle;
+	color: #3388CE;
+	line-height: 1.5em;
+}
+.listado-especia li:last-child{
+	margin-bottom: 1em;
+}
+.informacion-persona{
+	margin-bottom: 0;
+	line-height: 0;
+}
+.contenedor-informacion-persona{
+	margin: 1em 0 !important;
+}
+/********************************************/
+
+/***** Estilos Galería Swipe Profesores *****/
+#galeria li{
+	float: left;
+	width: 33.33%;
+}
+#galeria li a
+{
+	border: 1px solid #3c3c3c;
+	display: block;
+	margin: 5px;
+}
+#galeria li img{
+	display: block;
+	height: auto;
+	width: 100%;
+}
+/********************************************/
+
+/***** Estilos de JQueryMobile Sobreescritos *****/
+.ui-header .ui-title{
+	margin: 0 0 !important;
+}
+.ui-content{
+	padding: 0 0 !important;
+}
+.ui-collapsible-set, .ui-corner-all{
+	position: relative;
+	z-index: 10;
+}
+.ui-bar{
+	border-radius: .3125em .3125em 0 0;
+}
+.ui-body{
+	border-radius: 0 0 .3125em .3125em;
+	padding: 1em !important;
+}
+/*************************************************/
