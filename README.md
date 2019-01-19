@@ -7,14 +7,14 @@ Institución.
 
 ### Tecnologías Web Implementadas en el Proyecto
 
-| Frontend               | Backend | Gestor de Bases de Datos |
-| ---------------------- | ------- | ------------------------ |
-| HTML-5                 | PHP 7   | MySQL 5 			      |
-| CSS-3                  |         			                  |
-| JavaScript (jQuery)    |                                    |
-| Responsive Web Design  |                                    |
-| jQuery Mobile          |                                    |
-| Ajax		             |                                    |
+| Frontend               | Backend                | Gestor de Bases de Datos |
+| ---------------------- | ---------------------- | ------------------------ |
+| HTML-5                 | PHP 7 (No Frameworks)  | MySQL 5 			     |
+| CSS-3                  |         			        			             |
+| JavaScript (jQuery)    |    			                                     |
+| Responsive Web Design  |              			                         |
+| jQuery Mobile          |                          			             |
+| Ajax		             |              			                         |
 
 ### Recursos y Componentes de Terceros
 
@@ -23,6 +23,15 @@ Institución.
 ### Instrucciones de Instalación
 
 Revisar el archivo adjunto leéme.txt
+
+### Enlace Proyecto en Producción
+
+[tutorapp.xpsmart.com.mx/](http://tutorapp.xpsmart.com.mx/)
+
+* Usuario: prepajv01
+* Password: tutor0A
+
+Más contraseñas de acceso en el archivo leéme.txt
 
 ### Descripción de las Secciones del Sitio
 
